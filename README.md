@@ -1,16 +1,39 @@
-## Hi there 👋
+## 👋 Olá! Eu sou o Renon Soares
 
-<!--
-**RenonSoares/RenonSoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
+💻 Apaixonado por tecnologia e programação  
+🌐 Interessado em desenvolvimento **Fullstack**  
+📌 Foco atual em **Java** e **JavaScript**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias que estou estudando
+
+- 🌱 Java
+- 🌱 JavaScript
+- 🌱 HTML, CSS
+- 🌱 Git e GitHub
+- 🌱 SQL e NoSQL
+
+---
+
+### 📈 Objetivos
+
+- Me tornar um desenvolvedor Fullstack completo
+- Contribuir com projetos open source
+- Aprender frameworks como Spring Boot, React e Node.js
+
+---
+
+### 📫 Contato
+
+Você pode falar comigo por aqui:
+
+- [LinkedIn](https://www.linkedin.com/in/renon-soares-878075221/)
+- Email: renonsoares17@gmail.com
+
+---
+
+⭐ Se gostou de algum projeto meu, não esqueça de deixar uma estrela!
+
+
